@@ -1,6 +1,6 @@
 # **Multi-Agent LLM Council for Clinical Reasoning Using 4-Bit Quantized Models**
 
-## 📘 Overview  
+## Overview  
 This repository implements a **multi-agent LLM council architecture** for clinical reasoning tasks.  
 Multiple lightweight **4-bit quantized language models** independently analyze a patient case, and a separate **chairman model** synthesizes their outputs into a final, higher-quality answer.
 
@@ -10,13 +10,13 @@ The goal is to showcase how **ensemble reasoning**, **quantized inference**, and
 - Increase transparency  
 — while still being GPU-efficient.
 
-> ⚠️ **Disclaimer:**  
+> **Disclaimer:**  
 > This project is intended **strictly for research and educational purposes**.  
 > It must **not** be used for real medical diagnosis or clinical decision-making.
 
 ---
 
-## 🧠 Key Features  
+## Key Features  
 - **Multi-agent LLM council** (3 member models + 1 chairman).  
 - **4-bit quantized inference** using `bitsandbytes` for low VRAM usage.  
 - Automatic model loading via HuggingFace Hub.  
@@ -33,7 +33,7 @@ The goal is to showcase how **ensemble reasoning**, **quantized inference**, and
 
 ---
 
-## 📁 Repository Structure  
+## Repository Structure  
 ```bash
 .
 ├── council.py           # Core council implementation
