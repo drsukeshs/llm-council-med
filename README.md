@@ -8,7 +8,7 @@ The goal is to showcase how **ensemble reasoning**, **quantized inference**, and
 - Improve reasoning stability  
 - Reduce hallucinations  
 - Increase transparency  
-— while still being GPU-efficient.
+- while still being GPU-efficient.
 
 > **Disclaimer:**  
 > This project is intended **strictly for research and educational purposes**.  
