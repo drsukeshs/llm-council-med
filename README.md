@@ -37,6 +37,7 @@ The goal is to showcase how **ensemble reasoning**, **quantized inference**, and
 ```bash
 .
 ├── app.py           # Core council implementation
+├── llm-council-med-sample.txt
 ├── requirements.txt     # Dependencies
 └── README.md            # Project documentation
 
