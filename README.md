@@ -36,8 +36,7 @@ The goal is to showcase how **ensemble reasoning**, **quantized inference**, and
 ## Repository Structure  
 ```bash
 .
-├── council.py           # Core council implementation
-├── inference_demo.py    # Example usage script
+├── app.py           # Core council implementation
 ├── requirements.txt     # Dependencies
 └── README.md            # Project documentation
 
